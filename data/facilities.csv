@@ -1,0 +1,9 @@
+facility_id,name,type,lat,lon,capacity
+BR001,Brussels Brewery,Brewery,50.8503,4.3517,50000
+BR002,Leuven Brewery,Brewery,50.8798,4.7005,75000
+DC001,Antwerp Distribution,Distribution Center,51.2194,4.4025,100000
+DC002,Ghent Distribution,Distribution Center,51.05,3.7303,80000
+RC001,Brussels Recycling,Recycling Center,50.8465,4.3524,30000
+RC002,Antwerp Recycling,Recycling Center,51.2213,4.4051,40000
+CP001,Leuven Collection,Collection Point,50.8798,4.7005,15000
+CP002,Ghent Collection,Collection Point,51.0543,3.7174,12000
