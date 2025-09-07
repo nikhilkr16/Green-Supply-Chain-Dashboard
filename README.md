@@ -2,6 +2,10 @@
 
 A comprehensive sustainability tracking and optimization platform for packaging waste management and circular supply chain operations.
 
+<img width="1819" height="905" alt="image" src="https://github.com/user-attachments/assets/a02eaadc-fb13-4fe5-b60c-3bed19a1da27" />
+
+Project Link : https://green-supply-chain-dashboard.streamlit.app/
+
 ## 🌟 Overview
 
 The Green Supply Chain Dashboard helps AB InBev track, visualize, and optimize packaging usage, waste, and recovery rates across their supply chain. It provides real-time insights for managers to identify bottlenecks in recycling/reuse and simulate the impact of waste reduction strategies.
